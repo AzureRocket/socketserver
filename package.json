@@ -1,0 +1,9 @@
+{
+  "name": "socketserver",
+  "version": "0.0.1",
+  "author": "Luke Wright <luke@simplyluke.com>",
+  "dependencies" : {
+    "express" : "latest",
+    "socket.io" : "latest"
+  }
+}
